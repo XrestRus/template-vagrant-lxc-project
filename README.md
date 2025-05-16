@@ -19,6 +19,8 @@
 - https://github.com/winfsp/sshfs-win
 - https://github.com/evsar3/sshfs-win-manager - В качестве GUI
 
+Также можно использовать sshfs в контейнере
+
 ### Использование внутреннего DNS при LXC
 
 Для трансляции запросов через DNS контейнера можно использовать ssh
