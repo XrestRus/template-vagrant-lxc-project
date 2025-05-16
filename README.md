@@ -40,6 +40,7 @@ Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass ; ./run.ps1
 
 - Ставит в VB - `ubuntu/jammy64`
 - Ставит в среду `lxc`, `git`, ...
+- Подключает sshfs (если есть)
 - Скачиват репозиторий
 - Предоставит оболочку для управления
 
